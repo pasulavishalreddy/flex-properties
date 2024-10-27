@@ -1,0 +1,155 @@
+  *{
+    background-color: lightyellow;
+  }
+  .header{
+
+    background-color: burlywood;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border: 2px solid black;
+
+} 
+
+.headerleft{
+
+    background-color: burlywood;
+
+}
+
+h1{
+    background-color: burlywood;
+}
+
+.headerright{
+    font-size: 20px;
+    display: flex;
+    gap: 20px;
+    background-color: burlywood;
+    margin-top: 60px;
+}
+
+a{
+
+  background-color: burlywood;
+    text-decoration: none; 
+
+}
+
+.harry{
+
+   justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+    gap:10px;
+    padding:20px;
+    margin:20px ;
+    text-decoration: underline;
+    font-size: bold;
+  
+
+
+}
+
+img{
+
+    height:250px ;
+    width: 200px;
+
+}
+
+.aman1{
+
+    height: 400px;
+    width: 360px;
+    border: 2px solid black;
+    display: flex;
+    flex-wrap: wrap;
+    background-color:white;
+    justify-content: center;
+
+}
+
+p{
+
+background-color: white;
+   display: flex; 
+   flex-wrap: wrap;
+   text-align:center;
+   
+}
+
+.aman2{
+
+    background-color: white;
+    height: 400px;
+    width: 380px;
+   display: flex;
+   flex-wrap: wrap;
+   border: 2px solid black;
+   justify-content: center;
+   
+}
+
+.aman3{
+    height: 400px;
+    width: 380px;
+    border: 2px solid black;
+    display: flex;
+    flex-wrap: wrap;
+    background-color:white;
+    justify-content: center;
+}
+
+.aman4{
+    height: 400px;
+    width: 360px;
+    border: 2px solid black;
+    display: flex;
+    flex-wrap: wrap;
+    background-color:white;
+    justify-content: center;
+}
+
+.aman5{
+
+    height: 400px;
+    width: 380px;
+    border: 2px solid black;
+    display: flex;
+    flex-wrap: wrap;
+    background-color:white;
+    justify-content: center;
+
+}
+
+.aman6{
+
+    height: 400px;
+    width: 380px;
+    border: 2px solid black;
+    display: flex;
+    flex-wrap: wrap;
+    background-color:white;
+    justify-content: center;
+    text-align: center;
+}
+
+.footer{
+
+    background-color: burlywood;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    border:2px solid black;
+    
+}
+
+h2{
+
+    display: flex;
+    flex-wrap:wrap ;
+    justify-content: center;
+    background-color: burlywood;
+
+}
